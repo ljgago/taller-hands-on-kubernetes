@@ -620,8 +620,6 @@ Accedemos al dashboard via port forwarding con `kubectl`.
 > **kubectl get pods --namespace=kube-system**  
 > **kubectl port-forward kubernetes-dashboard-v1.4.1-SOME-ID 9090 --namespace=kube-system**  
 
-Para seguir, veamos este ejemplo https://github.com/hermanjunge/k8s-examples
-
 Muchas Gracias.
 
 HJ.-
